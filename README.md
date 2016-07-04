@@ -1,2 +1,4 @@
-# Docker-Inhaler
-A generic data funnel for Docker.
+# :dash: Docker-Inhaler  {
+> A generic data funnel for Docker.
+
+# }
