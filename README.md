@@ -6,5 +6,5 @@ MIT © [Jake Alsemgeest][1] & [Zack Harley][2]
 
 # }
 
-[1]: https:// github.com/jalsemgeest
-[2]: https:// github.com/zackharley
+[1]: https://github.com/jalsemgeest
+[2]: https://github.com/zackharley
